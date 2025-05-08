@@ -1,29 +1,42 @@
-#My portfolio website
-This is a simple portfolio website built using HTML and CSS. The website consists of two main pages
+Portfolio Website
 
-*Home Page
- 
-*Contact Page
- 
-#Features
+A personal portfolio website created using HTML and basic CSS. This project includes a home page with a brief introduction and a contact page to reach out via email or social media.
 
-- Clean and minimalistic design
- 
-- Responsive layout
-- 
- #Folder Structure
- `|-- index.html |-- contact.html |-- css/     |-- styles.css |-- images/ ` 
-#Installation
- 
-1.  
-Clone the repository:
- `git clone <repository-url> ` 
- 
-2.  
-Navigate to the project directory:
- `cd portfolio-website ` 
- 
-3.  
-Open index.html in your browser to view the website.
+Features
 
-     Thankyou for visiting my portfolio website
+Home page with a brief introduction
+
+Contact page with a contact form and social media links
+
+
+Technologies Used
+
+HTML
+
+CSS
+
+
+How to Use
+
+1. Clone the repository:
+
+git clone https://github.com/yourusername/portfolio-website.git
+
+
+2. Open the index.html file in a browser to view the website.
+
+
+
+Contributing
+
+Feel free to submit a pull request for enhancements or bug fixes.
+
+Contact
+
+For any inquiries or feedback, reach out to me via:
+
+Email
+
+LinkedIn
+
+GitHub
